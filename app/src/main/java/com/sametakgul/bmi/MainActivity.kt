@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity() {
                      else{
                          val bmi=(Kilo.toFloat())/((Boy.toFloat()/100)*(Boy.toFloat()/100))
                          binding.txtsonuc.text=String.format("%.2f",bmi)
+                         binding.cvSonuc.visibility=View.VISIBLE
                          if(bmi<16)
                          {
                              binding.txtSonuc2.text="Aşırı Zayıf"

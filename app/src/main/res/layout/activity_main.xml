@@ -170,6 +170,7 @@
         android:layout_height="152dp"
         android:background="@color/card_background"
         android:elevation="15sp"
+        android:visibility="invisible"
         app:cardBackgroundColor="@color/card_background"
         app:cardCornerRadius="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
