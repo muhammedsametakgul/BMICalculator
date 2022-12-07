@@ -1,5 +1,6 @@
 # BMICalculator
 It is a basic BMI calculator application.
 It basically calculates BMI and show in what range you are exist
-![wp1](https://user-images.githubusercontent.com/93324656/206197219-4d98453b-8d33-4890-8cb7-feca5f508c77.jpg)
-![wp2](https://user-images.githubusercontent.com/93324656/206197245-064e1797-64a0-4511-b5be-d30591e77155.jpg)
+
+![Screenshot_20221207_165638](https://user-images.githubusercontent.com/93324656/206197925-71d1ff71-fd33-41d6-8618-42acdd8d4a2c.png)
+![Screenshot_20221207_165617](https://user-images.githubusercontent.com/93324656/206197932-1a16fcad-f7b7-4563-98d6-37b26a9e130b.png)
